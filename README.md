@@ -1,3 +1,3 @@
-# Lama Dev Chat App Starter template
+# Martian DevChat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This chat app is built with ReactJs for UI and Firebase for backend functionalities
